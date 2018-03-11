@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1920"
+	maxImageHeight="1080"
+	imageQuality="90"
+	galleryTitle="Portfolio"
+	useFullscreenExpand="false"
+
+>
+  <image imageURL="images/DSC02318.jpg"
+	thumbURL="thumbs/DSC02318.jpg"
+	linkURL="images/DSC02318.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02318.jpg">
+    <title><![CDATA[DSC02318]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02326.jpg"
+	thumbURL="thumbs/DSC02326.jpg"
+	linkURL="images/DSC02326.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02326.jpg">
+    <title><![CDATA[DSC02326]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02364.jpg"
+	thumbURL="thumbs/DSC02364.jpg"
+	linkURL="images/DSC02364.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02364.jpg">
+    <title><![CDATA[DSC02364]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02366.jpg"
+	thumbURL="thumbs/DSC02366.jpg"
+	linkURL="images/DSC02366.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02366.jpg">
+    <title><![CDATA[DSC02366]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02370.jpg"
+	thumbURL="thumbs/DSC02370.jpg"
+	linkURL="images/DSC02370.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02370.jpg">
+    <title><![CDATA[DSC02370]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02391.jpg"
+	thumbURL="thumbs/DSC02391.jpg"
+	linkURL="images/DSC02391.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02391.jpg">
+    <title><![CDATA[DSC02391]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02405.jpg"
+	thumbURL="thumbs/DSC02405.jpg"
+	linkURL="images/DSC02405.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02405.jpg">
+    <title><![CDATA[DSC02405]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02415.jpg"
+	thumbURL="thumbs/DSC02415.jpg"
+	linkURL="images/DSC02415.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02415.jpg">
+    <title><![CDATA[DSC02415]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02417.jpg"
+	thumbURL="thumbs/DSC02417.jpg"
+	linkURL="images/DSC02417.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02417.jpg">
+    <title><![CDATA[DSC02417]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02425.jpg"
+	thumbURL="thumbs/DSC02425.jpg"
+	linkURL="images/DSC02425.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02425.jpg">
+    <title><![CDATA[DSC02425]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02427.jpg"
+	thumbURL="thumbs/DSC02427.jpg"
+	linkURL="images/DSC02427.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02427.jpg">
+    <title><![CDATA[DSC02427]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02442.jpg"
+	thumbURL="thumbs/DSC02442.jpg"
+	linkURL="images/DSC02442.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02442.jpg">
+    <title><![CDATA[DSC02442]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02453.jpg"
+	thumbURL="thumbs/DSC02453.jpg"
+	linkURL="images/DSC02453.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02453.jpg">
+    <title><![CDATA[DSC02453]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02462.jpg"
+	thumbURL="thumbs/DSC02462.jpg"
+	linkURL="images/DSC02462.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02462.jpg">
+    <title><![CDATA[DSC02462]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02519.jpg"
+	thumbURL="thumbs/DSC02519.jpg"
+	linkURL="images/DSC02519.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02519.jpg">
+    <title><![CDATA[DSC02519]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02535.jpg"
+	thumbURL="thumbs/DSC02535.jpg"
+	linkURL="images/DSC02535.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02535.jpg">
+    <title><![CDATA[DSC02535]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02609.jpg"
+	thumbURL="thumbs/DSC02609.jpg"
+	linkURL="images/DSC02609.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02609.jpg">
+    <title><![CDATA[DSC02609]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02613.jpg"
+	thumbURL="thumbs/DSC02613.jpg"
+	linkURL="images/DSC02613.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02613.jpg">
+    <title><![CDATA[DSC02613]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02621.jpg"
+	thumbURL="thumbs/DSC02621.jpg"
+	linkURL="images/DSC02621.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02621.jpg">
+    <title><![CDATA[DSC02621]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02628.jpg"
+	thumbURL="thumbs/DSC02628.jpg"
+	linkURL="images/DSC02628.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02628.jpg">
+    <title><![CDATA[DSC02628]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02643.jpg"
+	thumbURL="thumbs/DSC02643.jpg"
+	linkURL="images/DSC02643.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02643.jpg">
+    <title><![CDATA[DSC02643]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02650.jpg"
+	thumbURL="thumbs/DSC02650.jpg"
+	linkURL="images/DSC02650.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02650.jpg">
+    <title><![CDATA[DSC02650]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02683.jpg"
+	thumbURL="thumbs/DSC02683.jpg"
+	linkURL="images/DSC02683.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02683.jpg">
+    <title><![CDATA[DSC02683]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02744.jpg"
+	thumbURL="thumbs/DSC02744.jpg"
+	linkURL="images/DSC02744.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02744.jpg">
+    <title><![CDATA[DSC02744]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02775.jpg"
+	thumbURL="thumbs/DSC02775.jpg"
+	linkURL="images/DSC02775.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02775.jpg">
+    <title><![CDATA[DSC02775]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02945.jpg"
+	thumbURL="thumbs/DSC02945.jpg"
+	linkURL="images/DSC02945.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02945.jpg">
+    <title><![CDATA[DSC02945]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02979.jpg"
+	thumbURL="thumbs/DSC02979.jpg"
+	linkURL="images/DSC02979.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02979.jpg">
+    <title><![CDATA[DSC02979]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02989.jpg"
+	thumbURL="thumbs/DSC02989.jpg"
+	linkURL="images/DSC02989.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC02989.jpg">
+    <title><![CDATA[DSC02989]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC03009.jpg"
+	thumbURL="thumbs/DSC03009.jpg"
+	linkURL="images/DSC03009.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC03009.jpg">
+    <title><![CDATA[DSC03009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC03046.jpg"
+	thumbURL="thumbs/DSC03046.jpg"
+	linkURL="images/DSC03046.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC03046.jpg">
+    <title><![CDATA[DSC03046]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC03088.jpg"
+	thumbURL="thumbs/DSC03088.jpg"
+	linkURL="images/DSC03088.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\dandy_000\Pictures\Lightroom Export\Portfolio\DSC03088.jpg">
+    <title><![CDATA[DSC03088]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
